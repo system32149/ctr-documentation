@@ -2,7 +2,7 @@
 Table of contents:
 - [Settings layer](#settings-layer)
 - [Objects layer](#objects-layer)
-    - [Additional information for objects](#Additional-information-for-objects)
+    - [Additional information for objects](#additional-information-for-objects)
         - [`target`](#target)
 
 An **XML level** is a level that uses the XML markup language to store level settings & objects.
