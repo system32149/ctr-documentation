@@ -33,11 +33,12 @@ The `layer` element with the `name` attribute set to "settings" has options for 
 The `layer` element with the `name` attribute set to "Objects" has objects for the level.
 
 List of objects:
-XML Tag | Description 
-:-- | :--
-`target` | Om Nom.
-`star` | A star.
-`hiddenElement` | A blue star.
+
+| XML Tag         | Description  |
+| --------------- | ------------ |
+| `target`        | Om Nom.      |
+| `star`          | A star.      |
+| `hiddenElement` | A blue star. |
 
 ### Additional information for objects
 #### `target`
