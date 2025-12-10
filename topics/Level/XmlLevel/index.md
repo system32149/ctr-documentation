@@ -22,7 +22,7 @@ Here's what an XML level file should look like:
 </map>
 ```
 > [!TIP]
-> Internally, the game calls a level as a "map". In this website, we will call them as "levels" fron now on.
+> Internally, the game calls a level as a "map". In this website, we will call them as "levels" from now on.
 
 In an XML level, there's a `map` element, which inside has `layer` elements which will be documented below.
 
