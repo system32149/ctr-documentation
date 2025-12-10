@@ -34,11 +34,12 @@ The `layer` element with the `name` attribute set to "Objects" has objects for t
 
 List of objects:
 
-| XML Tag         | Description  |
-| --------------- | ------------ |
-| `target`        | Om Nom.      |
-| `star`          | A star.      |
-| `hiddenElement` | A blue star. |
+| XML Tag         | Description         | First version |
+| --------------- | ------------------- | ------------- |
+| `target`        | Om Nom.             | 1.0           |
+| `candy`         | The candy.          | 1.0           |
+| `star`          | A yellow star.      | 1.0           |
+| `hiddenElement` | A blue star.        | ???           |
 
 ### Additional information for objects
 #### `target`
