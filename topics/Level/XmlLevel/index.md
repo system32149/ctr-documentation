@@ -4,6 +4,8 @@ Table of contents:
 - [Objects layer](#objects-layer)
     - [Additional information for objects](#additional-information-for-objects)
         - [`target`](#target)
+    - [Global attributes](#global-attributes)
+        - [Position attributes](#position-attributes)
 
 An **XML level** is a level that uses the XML markup language to store level settings & objects.
 
@@ -40,6 +42,18 @@ List of objects:
 | `candy`         | The candy.          | 1.0           |
 | `star`          | A yellow star.      | 1.0           |
 | `hiddenElement` | A blue star.        | ???           |
+
+### Global attributes
+These are attributes to objects that are not specific to any object.
+
+#### Position attributes
+The `x` and `y` attributes specify the X and Y coordinates of the object. Any amount higher than the level's `width` and `height` will be off-screen.
+
+Examples:
+```xml
+<target x='161' y='433' />
+<candy x='20' y='256' />
+```
 
 ### Additional information for objects
 #### `target`
